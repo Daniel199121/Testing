@@ -1,3 +1,0 @@
-user=root
-password=Testowanie4u!
-url=jdbc:mysql://localhost:3306/mydb?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
